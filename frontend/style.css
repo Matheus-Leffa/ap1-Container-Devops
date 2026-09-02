@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#listaAlunos {
+    margin-top: 20px;
+}
+
+#listaAlunos p {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+}
